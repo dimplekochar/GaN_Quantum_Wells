@@ -1,0 +1,725 @@
+2017-11-29 17:35:10,871 WARNING aestimo psi_at_inf_cython module not found
+2017-11-29 17:35:10,899 INFO aestimo inputfile is sample_qw_barrierdope_p_AlGaInN
+2017-11-29 17:35:10,899 INFO aestimo Aestimo is starting...
+2017-11-29 17:35:57,519 WARNING aestimo psi_at_inf_cython module not found
+2017-11-29 17:35:57,521 INFO aestimo inputfile is sample_qw_barrierdope_p_AlGaInN
+2017-11-29 17:35:57,521 INFO aestimo Aestimo is starting...
+2017-11-29 18:05:37,313 WARNING aestimo psi_at_inf_cython module not found
+2017-11-29 18:05:37,314 INFO aestimo inputfile is sample_qw_barrierdope
+2017-11-29 18:05:37,314 INFO aestimo Aestimo is starting...
+2017-11-29 18:05:37,314 INFO aestimo Total layer number: 7
+2017-11-29 18:05:37,314 INFO aestimo Total number of materials in database: 23
+2017-11-29 18:05:40,943 INFO aestimo calculation time  3.62874 s
+2017-11-29 18:05:40,944 INFO aestimo total running time (inc. loading libraries) 4.02439 s
+2017-11-29 18:05:40,944 INFO aestimo total running time (exc. loading libraries) 3.63073 s
+2017-11-29 20:30:22,858 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2017-12-01 19:59:32,104 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 19:59:32,147 INFO aestimo inputfile is sample_qw_barrierdope
+2017-12-01 19:59:32,147 INFO aestimo Aestimo is starting...
+2017-12-01 19:59:32,147 INFO aestimo Total layer number: 7
+2017-12-01 19:59:32,147 INFO aestimo Total number of materials in database: 23
+2017-12-01 19:59:35,957 INFO aestimo calculation time  3.80895 s
+2017-12-01 19:59:35,957 INFO aestimo total running time (inc. loading libraries) 9.27718 s
+2017-12-01 19:59:35,957 INFO aestimo total running time (exc. loading libraries) 3.8535 s
+2017-12-01 20:00:21,314 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2017-12-01 20:03:19,852 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 20:03:19,903 INFO aestimo inputfile is sample_qw_barrierdope
+2017-12-01 20:03:19,903 INFO aestimo Aestimo is starting...
+2017-12-01 20:03:19,903 INFO aestimo Total layer number: 13
+2017-12-01 20:03:19,903 INFO aestimo Total number of materials in database: 23
+2017-12-01 20:03:20,178 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2017-12-01 20:03:20,464 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2017-12-01 20:03:20,768 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2017-12-01 20:03:27,444 INFO aestimo calculation time  7.54069 s
+2017-12-01 20:03:27,445 INFO aestimo total running time (inc. loading libraries) 7.94426 s
+2017-12-01 20:03:27,445 INFO aestimo total running time (exc. loading libraries) 7.5928 s
+2017-12-01 20:04:10,914 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 20:04:10,915 INFO aestimo inputfile is sample_qw_barrierdope
+2017-12-01 20:04:10,915 INFO aestimo Aestimo is starting...
+2017-12-01 20:04:10,915 INFO aestimo Total layer number: 12
+2017-12-01 20:04:10,915 INFO aestimo Total number of materials in database: 23
+2017-12-01 20:04:11,149 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2017-12-01 20:04:56,472 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 20:04:56,473 INFO aestimo inputfile is sample_qw_barrierdope
+2017-12-01 20:04:56,473 INFO aestimo Aestimo is starting...
+2017-12-01 20:04:56,474 INFO aestimo Total layer number: 11
+2017-12-01 20:04:56,474 INFO aestimo Total number of materials in database: 23
+2017-12-01 20:05:06,130 WARNING aestimo Have reached maximum number of iterations
+2017-12-01 20:05:06,130 INFO aestimo calculation time  9.65594 s
+2017-12-01 20:05:06,131 INFO aestimo total running time (inc. loading libraries) 10.0148 s
+2017-12-01 20:05:06,131 INFO aestimo total running time (exc. loading libraries) 9.65827 s
+2017-12-01 20:07:15,789 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 20:07:15,790 INFO aestimo inputfile is sample_qw_barrierdope
+2017-12-01 20:07:15,790 INFO aestimo Aestimo is starting...
+2017-12-01 20:07:15,790 INFO aestimo Total layer number: 9
+2017-12-01 20:07:15,790 INFO aestimo Total number of materials in database: 23
+2017-12-01 20:07:20,877 INFO aestimo calculation time  5.08683 s
+2017-12-01 20:07:20,878 INFO aestimo total running time (inc. loading libraries) 5.4048 s
+2017-12-01 20:07:20,878 INFO aestimo total running time (exc. loading libraries) 5.08908 s
+2017-12-01 20:07:58,812 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2017-12-01 20:09:30,022 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 20:09:57,308 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 20:09:57,317 INFO aestimo inputfile is sample_qw_barrierdope
+2017-12-01 20:09:57,317 INFO aestimo Aestimo is starting...
+2017-12-01 20:09:57,317 INFO aestimo Total layer number: 5
+2017-12-01 20:09:57,317 INFO aestimo Total number of materials in database: 23
+2017-12-01 20:09:58,719 INFO aestimo calculation time  1.40169 s
+2017-12-01 20:09:58,720 INFO aestimo total running time (inc. loading libraries) 1.75823 s
+2017-12-01 20:09:58,720 INFO aestimo total running time (exc. loading libraries) 1.41231 s
+2017-12-01 20:10:53,615 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2017-12-01 20:11:42,454 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 20:11:42,455 INFO aestimo inputfile is sample_qw_barrierdope
+2017-12-01 20:11:42,455 INFO aestimo Aestimo is starting...
+2017-12-01 20:11:42,455 INFO aestimo Total layer number: 5
+2017-12-01 20:11:42,455 INFO aestimo Total number of materials in database: 23
+2017-12-01 20:11:43,853 INFO aestimo calculation time  1.39712 s
+2017-12-01 20:11:43,853 INFO aestimo total running time (inc. loading libraries) 1.70564 s
+2017-12-01 20:11:43,853 INFO aestimo total running time (exc. loading libraries) 1.39889 s
+2017-12-01 21:24:31,092 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:24:31,093 INFO aestimo inputfile is sample_qw_barrierdope
+2017-12-01 21:24:31,093 INFO aestimo Aestimo is starting...
+2017-12-01 21:24:31,093 INFO aestimo Total layer number: 5
+2017-12-01 21:24:31,093 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:24:32,542 INFO aestimo calculation time  1.44906 s
+2017-12-01 21:24:32,543 INFO aestimo total running time (inc. loading libraries) 2.24673 s
+2017-12-01 21:24:32,543 INFO aestimo total running time (exc. loading libraries) 1.45062 s
+2017-12-01 21:26:23,741 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:27:04,255 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:27:49,470 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:28:10,006 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:28:48,452 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:33:14,787 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:33:30,405 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:33:51,567 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:34:07,899 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:34:56,130 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:35:32,230 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:36:30,322 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:36:43,148 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:37:51,545 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:38:20,785 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:38:46,390 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:40:39,461 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:41:46,375 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:41:58,618 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:42:18,843 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:42:18,844 INFO aestimo Total layer number: 3
+2017-12-01 21:42:18,844 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:42:18,962 INFO aestimo calculation time  0.117571 s
+2017-12-01 21:43:04,353 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:43:26,534 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:43:26,535 INFO aestimo Total layer number: 3
+2017-12-01 21:43:26,536 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:43:26,645 INFO aestimo calculation time  0.109194 s
+2017-12-01 21:43:31,770 INFO aestimo Simulation is finished.
+2017-12-01 21:43:31,770 INFO aestimo Total layer number: 5
+2017-12-01 21:43:31,771 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:43:31,956 INFO aestimo calculation time  0.185035 s
+2017-12-01 21:46:54,199 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:46:54,200 INFO aestimo Total layer number: 3
+2017-12-01 21:46:54,200 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:46:54,310 INFO aestimo calculation time  0.109821 s
+2017-12-01 21:46:57,428 INFO aestimo Simulation is finished.
+2017-12-01 21:46:57,429 INFO aestimo Total layer number: 5
+2017-12-01 21:46:57,429 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:46:57,616 INFO aestimo calculation time  0.186813 s
+2017-12-01 21:47:02,046 INFO aestimo Simulation is finished.
+2017-12-01 21:47:02,255 INFO aestimo calculation time  0.207274 s
+2017-12-01 21:47:02,429 INFO aestimo calculation time  0.173279 s
+2017-12-01 21:47:02,592 INFO aestimo calculation time  0.162704 s
+2017-12-01 21:47:02,754 INFO aestimo calculation time  0.161417 s
+2017-12-01 21:47:02,917 INFO aestimo calculation time  0.16299 s
+2017-12-01 21:47:03,107 INFO aestimo calculation time  0.188853 s
+2017-12-01 21:47:03,322 INFO aestimo calculation time  0.215034 s
+2017-12-01 21:47:03,544 INFO aestimo calculation time  0.220921 s
+2017-12-01 21:47:03,760 INFO aestimo calculation time  0.215536 s
+2017-12-01 21:47:03,975 INFO aestimo calculation time  0.214549 s
+2017-12-01 21:47:03,975 INFO aestimo inputfile is sample_qw_barrierdope
+2017-12-01 21:47:03,975 INFO aestimo Aestimo is starting...
+2017-12-01 21:47:33,235 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:47:33,236 INFO aestimo Total layer number: 3
+2017-12-01 21:47:33,236 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:47:33,357 INFO aestimo calculation time  0.120167 s
+2017-12-01 21:47:39,791 INFO aestimo Simulation is finished.
+2017-12-01 21:47:39,791 INFO aestimo Total layer number: 5
+2017-12-01 21:47:39,791 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:47:40,024 INFO aestimo calculation time  0.23269 s
+2017-12-01 21:47:41,036 INFO aestimo Simulation is finished.
+2017-12-01 21:47:41,288 INFO aestimo calculation time  0.251326 s
+2017-12-01 21:47:41,452 INFO aestimo calculation time  0.163808 s
+2017-12-01 21:47:41,610 INFO aestimo calculation time  0.156688 s
+2017-12-01 21:47:41,771 INFO aestimo calculation time  0.160711 s
+2017-12-01 21:47:41,937 INFO aestimo calculation time  0.166029 s
+2017-12-01 21:47:42,130 INFO aestimo calculation time  0.192063 s
+2017-12-01 21:47:42,345 INFO aestimo calculation time  0.214813 s
+2017-12-01 21:47:42,565 INFO aestimo calculation time  0.219429 s
+2017-12-01 21:47:42,789 INFO aestimo calculation time  0.223138 s
+2017-12-01 21:47:43,002 INFO aestimo calculation time  0.213099 s
+2017-12-01 21:48:41,091 INFO aestimo inputfile is sample_qw_barrierdope
+2017-12-01 21:48:41,091 INFO aestimo Aestimo is starting...
+2017-12-01 21:49:53,711 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:50:13,715 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:50:13,717 INFO aestimo Total layer number: 3
+2017-12-01 21:50:13,717 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:50:13,828 INFO aestimo calculation time  0.110981 s
+2017-12-01 21:50:15,891 INFO aestimo Simulation is finished.
+2017-12-01 21:50:15,892 INFO aestimo Total layer number: 5
+2017-12-01 21:50:15,892 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:50:16,083 INFO aestimo calculation time  0.190235 s
+2017-12-01 21:50:16,973 INFO aestimo Simulation is finished.
+2017-12-01 21:50:17,163 INFO aestimo calculation time  0.189282 s
+2017-12-01 21:50:17,327 INFO aestimo calculation time  0.164017 s
+2017-12-01 21:50:17,490 INFO aestimo calculation time  0.16158 s
+2017-12-01 21:50:17,650 INFO aestimo calculation time  0.159583 s
+2017-12-01 21:50:17,814 INFO aestimo calculation time  0.163724 s
+2017-12-01 21:50:18,001 INFO aestimo calculation time  0.186366 s
+2017-12-01 21:50:18,210 INFO aestimo calculation time  0.208753 s
+2017-12-01 21:50:18,421 INFO aestimo calculation time  0.211009 s
+2017-12-01 21:50:18,638 INFO aestimo calculation time  0.216611 s
+2017-12-01 21:50:18,852 INFO aestimo calculation time  0.213519 s
+2017-12-01 21:51:53,808 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:51:53,809 INFO aestimo Total layer number: 3
+2017-12-01 21:51:53,809 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:51:53,921 INFO aestimo calculation time  0.111369 s
+2017-12-01 21:51:55,776 INFO aestimo Simulation is finished.
+2017-12-01 21:51:55,776 INFO aestimo Total layer number: 5
+2017-12-01 21:51:55,776 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:51:55,966 INFO aestimo calculation time  0.189203 s
+2017-12-01 21:51:56,680 INFO aestimo Simulation is finished.
+2017-12-01 21:52:06,936 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:52:06,936 INFO aestimo Total layer number: 3
+2017-12-01 21:52:06,936 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:52:07,047 INFO aestimo calculation time  0.110603 s
+2017-12-01 21:52:08,842 INFO aestimo Simulation is finished.
+2017-12-01 21:52:08,842 INFO aestimo Total layer number: 5
+2017-12-01 21:52:08,843 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:52:09,039 INFO aestimo calculation time  0.195549 s
+2017-12-01 21:52:09,589 INFO aestimo Simulation is finished.
+2017-12-01 21:52:24,534 INFO aestimo calculation time  14.9442 s
+2017-12-01 21:52:39,042 INFO aestimo calculation time  14.5073 s
+2017-12-01 21:52:47,107 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:52:47,108 INFO aestimo Total layer number: 3
+2017-12-01 21:52:47,109 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:52:47,220 INFO aestimo calculation time  0.110878 s
+2017-12-01 21:52:48,931 INFO aestimo Simulation is finished.
+2017-12-01 21:52:48,931 INFO aestimo Total layer number: 5
+2017-12-01 21:52:48,931 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:52:49,128 INFO aestimo calculation time  0.195814 s
+2017-12-01 21:52:49,904 INFO aestimo Simulation is finished.
+2017-12-01 21:52:57,596 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:52:57,597 INFO aestimo Total layer number: 3
+2017-12-01 21:52:57,598 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:52:57,715 INFO aestimo calculation time  0.117195 s
+2017-12-01 21:52:59,241 INFO aestimo Simulation is finished.
+2017-12-01 21:52:59,242 INFO aestimo Total layer number: 5
+2017-12-01 21:52:59,242 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:52:59,452 INFO aestimo calculation time  0.208933 s
+2017-12-01 21:53:00,035 INFO aestimo Simulation is finished.
+2017-12-01 21:53:00,246 INFO aestimo calculation time  0.210478 s
+2017-12-01 21:53:00,414 INFO aestimo calculation time  0.167642 s
+2017-12-01 21:53:00,573 INFO aestimo calculation time  0.158666 s
+2017-12-01 21:53:00,735 INFO aestimo calculation time  0.161664 s
+2017-12-01 21:53:00,903 INFO aestimo calculation time  0.167223 s
+2017-12-01 21:53:01,095 INFO aestimo calculation time  0.191697 s
+2017-12-01 21:53:01,308 INFO aestimo calculation time  0.2124 s
+2017-12-01 21:53:01,521 INFO aestimo calculation time  0.212496 s
+2017-12-01 21:53:01,744 INFO aestimo calculation time  0.22306 s
+2017-12-01 21:53:01,968 INFO aestimo calculation time  0.222595 s
+2017-12-01 21:53:20,531 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:53:20,533 INFO aestimo Total layer number: 3
+2017-12-01 21:53:20,533 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:53:20,647 INFO aestimo calculation time  0.113089 s
+2017-12-01 21:53:22,364 INFO aestimo Simulation is finished.
+2017-12-01 21:53:22,365 INFO aestimo Total layer number: 5
+2017-12-01 21:53:22,365 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:53:22,551 INFO aestimo calculation time  0.185563 s
+2017-12-01 21:53:23,533 INFO aestimo Simulation is finished.
+2017-12-01 21:53:23,733 INFO aestimo calculation time  0.199748 s
+2017-12-01 21:53:23,905 INFO aestimo calculation time  0.171667 s
+2017-12-01 21:53:24,079 INFO aestimo calculation time  0.172807 s
+2017-12-01 21:53:24,244 INFO aestimo calculation time  0.164862 s
+2017-12-01 21:53:24,412 INFO aestimo calculation time  0.167346 s
+2017-12-01 21:53:24,599 INFO aestimo calculation time  0.187118 s
+2017-12-01 21:53:24,815 INFO aestimo calculation time  0.215473 s
+2017-12-01 21:53:25,030 INFO aestimo calculation time  0.214211 s
+2017-12-01 21:53:25,251 INFO aestimo calculation time  0.220479 s
+2017-12-01 21:53:25,470 INFO aestimo calculation time  0.218122 s
+2017-12-01 21:54:15,549 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 21:54:15,552 INFO aestimo Total layer number: 3
+2017-12-01 21:54:15,552 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:54:15,677 INFO aestimo calculation time  0.124304 s
+2017-12-01 21:54:18,394 INFO aestimo Simulation is finished.
+2017-12-01 21:54:18,394 INFO aestimo Total layer number: 5
+2017-12-01 21:54:18,395 INFO aestimo Total number of materials in database: 23
+2017-12-01 21:54:18,620 INFO aestimo calculation time  0.224723 s
+2017-12-01 21:54:19,263 INFO aestimo Simulation is finished.
+2017-12-01 21:54:19,481 INFO aestimo calculation time  0.216732 s
+2017-12-01 21:54:19,659 INFO aestimo calculation time  0.177163 s
+2017-12-01 21:54:19,832 INFO aestimo calculation time  0.172555 s
+2017-12-01 21:54:20,007 INFO aestimo calculation time  0.174231 s
+2017-12-01 21:54:20,187 INFO aestimo calculation time  0.17993 s
+2017-12-01 21:54:20,392 INFO aestimo calculation time  0.204329 s
+2017-12-01 21:54:20,622 INFO aestimo calculation time  0.228989 s
+2017-12-01 21:54:20,845 INFO aestimo calculation time  0.222677 s
+2017-12-01 21:54:21,075 INFO aestimo calculation time  0.230126 s
+2017-12-01 21:54:21,325 INFO aestimo calculation time  0.248832 s
+2017-12-01 21:54:22,358 INFO aestimo Total layer number: 5
+2017-12-01 21:54:22,358 INFO aestimo Total number of materials in database: 23
+2017-12-01 22:23:39,518 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 22:23:50,652 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 22:24:34,510 WARNING aestimo psi_at_inf_cython module not found
+2017-12-01 22:24:52,602 INFO aestimo calculation time  18.0903 s
+2018-01-01 16:51:55,285 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 16:51:55,327 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 16:51:55,327 INFO aestimo Aestimo is starting...
+2018-01-01 16:51:55,328 INFO aestimo Total layer number: 23
+2018-01-01 16:51:55,328 INFO aestimo Total number of materials in database: 23
+2018-01-01 16:51:55,937 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-01 17:52:22,473 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 17:52:22,477 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 17:52:22,477 INFO aestimo Aestimo is starting...
+2018-01-01 17:52:22,478 INFO aestimo Total layer number: 23
+2018-01-01 17:52:22,478 INFO aestimo Total number of materials in database: 23
+2018-01-01 17:52:23,082 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-01 17:56:38,052 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 17:56:38,054 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 17:56:38,055 INFO aestimo Aestimo is starting...
+2018-01-01 17:56:38,055 INFO aestimo Total layer number: 7
+2018-01-01 17:56:38,055 INFO aestimo Total number of materials in database: 23
+2018-01-01 17:56:41,766 INFO aestimo calculation time  3.71077 s
+2018-01-01 17:56:41,766 INFO aestimo total running time (inc. loading libraries) 4.05408 s
+2018-01-01 17:56:41,767 INFO aestimo total running time (exc. loading libraries) 3.71447 s
+2018-01-01 17:56:49,619 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2018-01-01 17:57:21,963 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 17:57:21,966 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 17:57:21,966 INFO aestimo Aestimo is starting...
+2018-01-01 17:57:21,966 INFO aestimo Total layer number: 13
+2018-01-01 17:57:21,966 INFO aestimo Total number of materials in database: 23
+2018-01-01 17:57:22,496 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-01 19:07:00,995 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 19:07:00,997 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 19:07:00,997 INFO aestimo Aestimo is starting...
+2018-01-01 19:07:00,998 INFO aestimo Total layer number: 12
+2018-01-01 19:07:00,998 INFO aestimo Total number of materials in database: 23
+2018-01-01 19:07:01,993 INFO aestimo calculation time  0.994531 s
+2018-01-01 19:07:01,993 INFO aestimo total running time (inc. loading libraries) 1.32029 s
+2018-01-01 19:07:01,994 INFO aestimo total running time (exc. loading libraries) 0.998919 s
+2018-01-01 19:07:14,728 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2018-01-01 19:07:28,054 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 19:07:28,056 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 19:07:28,057 INFO aestimo Aestimo is starting...
+2018-01-01 19:07:28,057 INFO aestimo Total layer number: 22
+2018-01-01 19:07:28,057 INFO aestimo Total number of materials in database: 23
+2018-01-01 19:07:29,132 INFO aestimo calculation time  1.07439 s
+2018-01-01 19:07:29,133 INFO aestimo total running time (inc. loading libraries) 1.41923 s
+2018-01-01 19:07:29,133 INFO aestimo total running time (exc. loading libraries) 1.07885 s
+2018-01-01 22:40:36,059 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 22:40:36,062 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 22:40:36,062 INFO aestimo Aestimo is starting...
+2018-01-01 22:40:36,062 INFO aestimo Total layer number: 24
+2018-01-01 22:40:36,062 INFO aestimo Total number of materials in database: 23
+2018-01-01 22:45:41,736 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 22:45:41,738 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 22:45:41,738 INFO aestimo Aestimo is starting...
+2018-01-01 22:45:41,738 INFO aestimo Total layer number: 24
+2018-01-01 22:45:41,738 INFO aestimo Total number of materials in database: 23
+2018-01-01 22:51:25,491 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 22:51:25,494 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 22:51:25,494 INFO aestimo Aestimo is starting...
+2018-01-01 22:51:25,494 INFO aestimo Total layer number: 24
+2018-01-01 22:51:25,494 INFO aestimo Total number of materials in database: 23
+2018-01-01 22:53:52,563 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 22:53:52,565 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 22:53:52,565 INFO aestimo Aestimo is starting...
+2018-01-01 22:53:52,565 INFO aestimo Total layer number: 24
+2018-01-01 22:53:52,566 INFO aestimo Total number of materials in database: 23
+2018-01-01 22:54:06,987 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 22:54:06,989 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 22:54:06,990 INFO aestimo Aestimo is starting...
+2018-01-01 22:54:06,990 INFO aestimo Total layer number: 24
+2018-01-01 22:54:06,990 INFO aestimo Total number of materials in database: 23
+2018-01-01 22:55:01,039 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 22:55:15,977 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 22:55:15,979 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 22:55:15,980 INFO aestimo Aestimo is starting...
+2018-01-01 22:55:15,980 INFO aestimo Total layer number: 16
+2018-01-01 22:55:15,981 INFO aestimo Total number of materials in database: 23
+2018-01-01 22:55:59,145 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 22:55:59,146 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 22:55:59,147 INFO aestimo Aestimo is starting...
+2018-01-01 22:55:59,147 INFO aestimo Total layer number: 16
+2018-01-01 22:55:59,147 INFO aestimo Total number of materials in database: 23
+2018-01-01 22:58:35,341 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 22:58:35,344 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 22:58:35,344 INFO aestimo Aestimo is starting...
+2018-01-01 22:58:35,344 INFO aestimo Total layer number: 24
+2018-01-01 22:58:35,344 INFO aestimo Total number of materials in database: 23
+2018-01-01 23:00:12,876 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:00:12,879 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 23:00:12,879 INFO aestimo Aestimo is starting...
+2018-01-01 23:00:12,879 INFO aestimo Total layer number: 7
+2018-01-01 23:00:12,879 INFO aestimo Total number of materials in database: 23
+2018-01-01 23:00:16,377 INFO aestimo calculation time  3.49773 s
+2018-01-01 23:00:16,377 INFO aestimo total running time (inc. loading libraries) 3.81052 s
+2018-01-01 23:00:16,378 INFO aestimo total running time (exc. loading libraries) 3.5012 s
+2018-01-01 23:00:21,309 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2018-01-01 23:01:07,750 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:01:07,752 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 23:01:07,752 INFO aestimo Aestimo is starting...
+2018-01-01 23:01:07,753 INFO aestimo Total layer number: 7
+2018-01-01 23:01:07,753 INFO aestimo Total number of materials in database: 23
+2018-01-01 23:01:34,064 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:01:34,066 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 23:01:34,066 INFO aestimo Aestimo is starting...
+2018-01-01 23:01:34,066 INFO aestimo Total layer number: 7
+2018-01-01 23:01:34,066 INFO aestimo Total number of materials in database: 23
+2018-01-01 23:01:37,596 INFO aestimo calculation time  3.52916 s
+2018-01-01 23:01:37,596 INFO aestimo total running time (inc. loading libraries) 3.83995 s
+2018-01-01 23:01:37,596 INFO aestimo total running time (exc. loading libraries) 3.53272 s
+2018-01-01 23:02:07,119 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2018-01-01 23:02:16,932 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:02:16,934 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 23:02:16,935 INFO aestimo Aestimo is starting...
+2018-01-01 23:02:16,935 INFO aestimo Total layer number: 7
+2018-01-01 23:02:16,935 INFO aestimo Total number of materials in database: 23
+2018-01-01 23:09:40,173 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:09:40,175 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 23:09:40,175 INFO aestimo Aestimo is starting...
+2018-01-01 23:09:40,175 INFO aestimo Total layer number: 7
+2018-01-01 23:09:40,176 INFO aestimo Total number of materials in database: 23
+2018-01-01 23:14:26,175 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:14:26,178 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 23:14:26,178 INFO aestimo Aestimo is starting...
+2018-01-01 23:14:26,178 INFO aestimo Total layer number: 24
+2018-01-01 23:14:26,178 INFO aestimo Total number of materials in database: 23
+2018-01-01 23:14:39,926 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-01 23:15:06,936 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:15:06,939 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 23:15:06,940 INFO aestimo Aestimo is starting...
+2018-01-01 23:15:06,940 INFO aestimo Total layer number: 22
+2018-01-01 23:15:06,940 INFO aestimo Total number of materials in database: 23
+2018-01-01 23:15:11,021 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-01 23:16:09,498 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:16:09,501 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 23:16:09,501 INFO aestimo Aestimo is starting...
+2018-01-01 23:16:09,501 INFO aestimo Total layer number: 20
+2018-01-01 23:16:09,501 INFO aestimo Total number of materials in database: 23
+2018-01-01 23:16:09,824 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-01 23:16:54,503 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:16:54,505 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 23:16:54,505 INFO aestimo Aestimo is starting...
+2018-01-01 23:16:54,505 INFO aestimo Total layer number: 16
+2018-01-01 23:16:54,506 INFO aestimo Total number of materials in database: 23
+2018-01-01 23:16:55,688 INFO aestimo calculation time  1.18168 s
+2018-01-01 23:16:55,688 INFO aestimo total running time (inc. loading libraries) 1.49792 s
+2018-01-01 23:16:55,688 INFO aestimo total running time (exc. loading libraries) 1.18522 s
+2018-01-01 23:17:35,019 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2018-01-01 23:20:59,972 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:20:59,974 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 23:20:59,975 INFO aestimo Aestimo is starting...
+2018-01-01 23:20:59,975 INFO aestimo Total layer number: 18
+2018-01-01 23:20:59,975 INFO aestimo Total number of materials in database: 23
+2018-01-01 23:21:00,125 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-01 23:22:39,555 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:22:39,557 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 23:22:39,557 INFO aestimo Aestimo is starting...
+2018-01-01 23:22:39,557 INFO aestimo Total layer number: 18
+2018-01-01 23:22:39,557 INFO aestimo Total number of materials in database: 23
+2018-01-01 23:22:39,701 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-01 23:24:56,260 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:24:56,262 INFO aestimo inputfile is sample_qw_barrierdope
+2018-01-01 23:24:56,263 INFO aestimo Aestimo is starting...
+2018-01-01 23:24:56,263 INFO aestimo Total layer number: 24
+2018-01-01 23:24:56,263 INFO aestimo Total number of materials in database: 23
+2018-01-01 23:31:46,661 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:31:58,493 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:31:58,495 INFO aestimo inputfile is sample_qw_barrierdope_p_AlGaInN
+2018-01-01 23:31:58,495 INFO aestimo Aestimo is starting...
+2018-01-01 23:47:29,258 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:47:29,303 INFO aestimo inputfile is sample_qw_barrierdope_p_ingan
+2018-01-01 23:47:29,304 INFO aestimo Aestimo is starting...
+2018-01-01 23:50:19,228 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:50:28,320 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:50:28,322 INFO aestimo inputfile is sample_qw_barrierdope_p_AlGaInN
+2018-01-01 23:50:28,323 INFO aestimo Aestimo is starting...
+2018-01-01 23:50:28,323 INFO aestimo Total layer number: 24
+2018-01-01 23:50:28,323 INFO aestimo Total number of materials in database: 23
+2018-01-01 23:50:46,514 WARNING aestimo psi_at_inf_cython module not found
+2018-01-01 23:50:46,516 INFO aestimo inputfile is sample_qw_barrierdope_p_AlGaInN
+2018-01-01 23:50:46,517 INFO aestimo Aestimo is starting...
+2018-01-01 23:50:46,517 INFO aestimo Total layer number: 24
+2018-01-01 23:50:46,517 INFO aestimo Total number of materials in database: 23
+2018-01-02 17:20:43,046 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 17:20:43,048 INFO aestimo inputfile is sample_qw_barrierdope_p_AlGaInN
+2018-01-02 17:20:43,048 INFO aestimo Aestimo is starting...
+2018-01-02 17:20:43,048 INFO aestimo Total layer number: 24
+2018-01-02 17:20:43,048 INFO aestimo Total number of materials in database: 23
+2018-01-02 17:21:49,090 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 17:21:49,093 INFO aestimo inputfile is sample_multi_qw_barrierdope_p
+2018-01-02 17:21:49,093 INFO aestimo Aestimo is starting...
+2018-01-02 17:22:17,392 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 17:22:17,394 INFO aestimo inputfile is sample_multi_qw_barrierdope_p
+2018-01-02 17:22:17,395 INFO aestimo Aestimo is starting...
+2018-01-02 17:22:17,395 INFO aestimo Total layer number: 24
+2018-01-02 17:22:17,395 INFO aestimo Total number of materials in database: 23
+2018-01-02 17:25:29,194 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 17:25:29,196 INFO aestimo inputfile is sample_double_qw
+2018-01-02 17:25:29,196 INFO aestimo Aestimo is starting...
+2018-01-02 17:25:29,196 INFO aestimo Total layer number: 24
+2018-01-02 17:25:29,196 INFO aestimo Total number of materials in database: 23
+2018-01-02 17:25:44,804 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-02 19:44:43,291 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 19:44:43,293 INFO aestimo inputfile is sample_double_qw
+2018-01-02 19:44:43,293 INFO aestimo Aestimo is starting...
+2018-01-02 19:44:43,293 INFO aestimo Total layer number: 24
+2018-01-02 19:44:43,293 INFO aestimo Total number of materials in database: 23
+2018-01-02 19:44:58,284 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-02 19:45:59,559 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 19:45:59,561 INFO aestimo inputfile is sample_double_qw
+2018-01-02 19:45:59,561 INFO aestimo Aestimo is starting...
+2018-01-02 19:45:59,561 INFO aestimo Total layer number: 24
+2018-01-02 19:45:59,561 INFO aestimo Total number of materials in database: 23
+2018-01-02 19:47:32,528 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 19:47:32,530 INFO aestimo inputfile is sample_double_qw
+2018-01-02 19:47:32,530 INFO aestimo Aestimo is starting...
+2018-01-02 19:47:32,530 INFO aestimo Total layer number: 24
+2018-01-02 19:47:32,530 INFO aestimo Total number of materials in database: 23
+2018-01-02 19:47:55,991 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 19:47:55,993 INFO aestimo inputfile is sample_double_qw
+2018-01-02 19:47:55,994 INFO aestimo Aestimo is starting...
+2018-01-02 19:47:55,994 INFO aestimo Total layer number: 24
+2018-01-02 19:47:55,994 INFO aestimo Total number of materials in database: 23
+2018-01-02 19:48:04,024 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 19:48:04,026 INFO aestimo inputfile is sample_double_qw
+2018-01-02 19:48:04,026 INFO aestimo Aestimo is starting...
+2018-01-02 19:48:04,026 INFO aestimo Total layer number: 24
+2018-01-02 19:48:04,026 INFO aestimo Total number of materials in database: 23
+2018-01-02 19:57:20,352 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 19:57:20,354 INFO aestimo inputfile is sample_double_qw
+2018-01-02 19:57:20,354 INFO aestimo Aestimo is starting...
+2018-01-02 19:57:20,354 INFO aestimo Total layer number: 24
+2018-01-02 19:57:20,354 INFO aestimo Total number of materials in database: 23
+2018-01-02 19:57:52,961 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-02 20:03:29,221 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:03:29,223 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:03:29,224 INFO aestimo Aestimo is starting...
+2018-01-02 20:03:29,224 INFO aestimo Total layer number: 24
+2018-01-02 20:03:29,224 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:04:04,377 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-02 20:04:57,751 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:04:57,753 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:04:57,753 INFO aestimo Aestimo is starting...
+2018-01-02 20:04:57,753 INFO aestimo Total layer number: 24
+2018-01-02 20:04:57,754 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:05:06,683 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:05:06,685 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:05:06,685 INFO aestimo Aestimo is starting...
+2018-01-02 20:05:06,685 INFO aestimo Total layer number: 24
+2018-01-02 20:05:06,686 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:05:32,698 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-02 20:06:22,753 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:06:22,755 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:06:22,755 INFO aestimo Aestimo is starting...
+2018-01-02 20:06:22,755 INFO aestimo Total layer number: 20
+2018-01-02 20:06:22,756 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:06:23,217 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-02 20:06:38,177 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:06:38,179 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:06:38,179 INFO aestimo Aestimo is starting...
+2018-01-02 20:06:38,180 INFO aestimo Total layer number: 16
+2018-01-02 20:06:38,180 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:06:39,293 INFO aestimo calculation time  1.11324 s
+2018-01-02 20:06:39,294 INFO aestimo total running time (inc. loading libraries) 1.46604 s
+2018-01-02 20:06:39,294 INFO aestimo total running time (exc. loading libraries) 1.11703 s
+2018-01-02 20:07:58,168 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:07:58,170 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:07:58,170 INFO aestimo Aestimo is starting...
+2018-01-02 20:07:58,170 INFO aestimo Total layer number: 21
+2018-01-02 20:07:58,170 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:08:11,213 WARNING aestimo Have reached maximum number of iterations
+2018-01-02 20:08:11,213 INFO aestimo calculation time  13.0427 s
+2018-01-02 20:08:11,214 INFO aestimo total running time (inc. loading libraries) 13.364 s
+2018-01-02 20:08:11,214 INFO aestimo total running time (exc. loading libraries) 13.0464 s
+2018-01-02 20:12:12,043 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2018-01-02 20:12:14,667 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:12:14,669 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:12:14,669 INFO aestimo Aestimo is starting...
+2018-01-02 20:12:14,669 INFO aestimo Total layer number: 21
+2018-01-02 20:12:14,669 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:12:15,462 INFO aestimo calculation time  0.791902 s
+2018-01-02 20:12:15,462 INFO aestimo total running time (inc. loading libraries) 1.11319 s
+2018-01-02 20:12:15,462 INFO aestimo total running time (exc. loading libraries) 0.795597 s
+2018-01-02 20:13:32,264 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2018-01-02 20:28:11,773 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:28:11,776 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:28:11,776 INFO aestimo Aestimo is starting...
+2018-01-02 20:28:11,776 INFO aestimo Total layer number: 20
+2018-01-02 20:28:11,776 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:28:17,143 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-02 20:28:40,061 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:28:40,063 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:28:40,064 INFO aestimo Aestimo is starting...
+2018-01-02 20:28:40,064 INFO aestimo Total layer number: 20
+2018-01-02 20:28:40,064 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:28:45,557 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-02 20:31:17,587 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:31:17,589 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:31:17,589 INFO aestimo Aestimo is starting...
+2018-01-02 20:31:17,589 INFO aestimo Total layer number: 24
+2018-01-02 20:31:17,589 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:31:41,959 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-02 20:36:45,218 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:36:45,220 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:36:45,220 INFO aestimo Aestimo is starting...
+2018-01-02 20:36:45,220 INFO aestimo Total layer number: 24
+2018-01-02 20:36:45,220 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:36:55,629 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:36:55,631 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:36:55,631 INFO aestimo Aestimo is starting...
+2018-01-02 20:36:55,632 INFO aestimo Total layer number: 24
+2018-01-02 20:36:55,632 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:38:15,588 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:38:15,590 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:38:15,590 INFO aestimo Aestimo is starting...
+2018-01-02 20:38:15,590 INFO aestimo Total layer number: 24
+2018-01-02 20:38:15,591 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:38:33,349 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:38:33,351 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:38:33,351 INFO aestimo Aestimo is starting...
+2018-01-02 20:38:33,351 INFO aestimo Total layer number: 24
+2018-01-02 20:38:33,352 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:43:21,340 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:46:45,909 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:46:45,910 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:46:45,911 INFO aestimo Aestimo is starting...
+2018-01-02 20:46:45,911 INFO aestimo Total layer number: 24
+2018-01-02 20:46:45,911 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:47:10,052 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:47:16,159 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:47:43,564 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:47:43,565 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:47:43,565 INFO aestimo Aestimo is starting...
+2018-01-02 20:47:43,565 INFO aestimo Total layer number: 20
+2018-01-02 20:47:43,565 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:47:44,101 INFO aestimo calculation time  0.5356 s
+2018-01-02 20:47:44,101 INFO aestimo total running time (inc. loading libraries) 0.849801 s
+2018-01-02 20:47:44,101 INFO aestimo total running time (exc. loading libraries) 0.537954 s
+2018-01-02 20:48:02,675 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2018-01-02 20:48:16,092 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:48:16,093 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:48:16,093 INFO aestimo Aestimo is starting...
+2018-01-02 20:48:16,093 INFO aestimo Total layer number: 20
+2018-01-02 20:48:16,093 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:48:16,625 INFO aestimo calculation time  0.531476 s
+2018-01-02 20:48:16,625 INFO aestimo total running time (inc. loading libraries) 0.843161 s
+2018-01-02 20:48:16,626 INFO aestimo total running time (exc. loading libraries) 0.53322 s
+2018-01-02 20:49:18,332 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:49:18,333 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:49:18,333 INFO aestimo Aestimo is starting...
+2018-01-02 20:49:18,333 INFO aestimo Total layer number: 20
+2018-01-02 20:49:18,333 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:49:18,720 INFO aestimo calculation time  0.386758 s
+2018-01-02 20:49:18,721 INFO aestimo total running time (inc. loading libraries) 0.699498 s
+2018-01-02 20:49:18,721 INFO aestimo total running time (exc. loading libraries) 0.389119 s
+2018-01-02 20:51:23,001 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:51:23,002 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:51:23,002 INFO aestimo Aestimo is starting...
+2018-01-02 20:51:23,002 INFO aestimo Total layer number: 24
+2018-01-02 20:51:23,002 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:51:40,047 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:51:40,048 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:51:40,048 INFO aestimo Aestimo is starting...
+2018-01-02 20:51:40,049 INFO aestimo Total layer number: 24
+2018-01-02 20:51:40,049 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:53:29,892 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:53:29,894 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:53:29,894 INFO aestimo Aestimo is starting...
+2018-01-02 20:53:29,894 INFO aestimo Total layer number: 24
+2018-01-02 20:53:29,894 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:55:05,425 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:55:05,427 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:55:05,428 INFO aestimo Aestimo is starting...
+2018-01-02 20:55:05,428 INFO aestimo Total layer number: 26
+2018-01-02 20:55:05,428 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:55:10,145 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:55:10,146 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:55:10,146 INFO aestimo Aestimo is starting...
+2018-01-02 20:55:10,146 INFO aestimo Total layer number: 26
+2018-01-02 20:55:10,146 INFO aestimo Total number of materials in database: 23
+2018-01-02 20:55:16,876 INFO aestimo calculation time  6.72898 s
+2018-01-02 20:55:16,877 INFO aestimo total running time (inc. loading libraries) 7.05636 s
+2018-01-02 20:55:16,877 INFO aestimo total running time (exc. loading libraries) 6.73147 s
+2018-01-02 20:56:02,094 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 20:56:02,095 INFO aestimo inputfile is sample_double_qw
+2018-01-02 20:56:02,095 INFO aestimo Aestimo is starting...
+2018-01-02 20:56:02,096 INFO aestimo Total layer number: 24
+2018-01-02 20:56:02,096 INFO aestimo Total number of materials in database: 23
+2018-01-02 21:01:03,732 WARNING aestimo Have processed all energy levels present and so can't be sure that Ef is below next higher energy level.
+2018-01-02 21:01:03,755 INFO aestimo calculation time  301.618 s
+2018-01-02 21:01:03,756 INFO aestimo total running time (inc. loading libraries) 302.024 s
+2018-01-02 21:01:03,756 INFO aestimo total running time (exc. loading libraries) 301.662 s
+2018-01-02 22:41:37,108 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 22:41:37,140 INFO aestimo inputfile is sample_multi_qw_barrierdope_p
+2018-01-02 22:41:37,140 INFO aestimo Aestimo is starting...
+2018-01-02 22:42:35,811 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 22:42:35,812 INFO aestimo inputfile is sample_multi_qw_barrierdope_p
+2018-01-02 22:42:35,813 INFO aestimo Aestimo is starting...
+2018-01-02 22:42:35,813 INFO aestimo Total layer number: 22
+2018-01-02 22:42:35,813 INFO aestimo Total number of materials in database: 23
+2018-01-02 22:42:35,957 INFO aestimo calculation time  0.143799 s
+2018-01-02 22:42:35,957 INFO aestimo total running time (inc. loading libraries) 0.516181 s
+2018-01-02 22:42:35,958 INFO aestimo total running time (exc. loading libraries) 0.146334 s
+2018-01-02 22:43:20,139 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2018-01-02 22:43:55,606 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 22:43:55,606 INFO aestimo inputfile is sample_multi_qw_barrierdope_p
+2018-01-02 22:43:55,606 INFO aestimo Aestimo is starting...
+2018-01-02 22:43:55,607 INFO aestimo Total layer number: 22
+2018-01-02 22:43:55,607 INFO aestimo Total number of materials in database: 23
+2018-01-02 22:43:55,751 INFO aestimo calculation time  0.143903 s
+2018-01-02 22:43:55,751 INFO aestimo total running time (inc. loading libraries) 0.497396 s
+2018-01-02 22:43:55,751 INFO aestimo total running time (exc. loading libraries) 0.145545 s
+2018-01-02 22:44:14,997 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2018-01-02 22:44:28,169 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 22:44:28,170 INFO aestimo inputfile is sample_multi_qw_barrierdope_p
+2018-01-02 22:44:28,170 INFO aestimo Aestimo is starting...
+2018-01-02 22:44:28,170 INFO aestimo Total layer number: 22
+2018-01-02 22:44:28,170 INFO aestimo Total number of materials in database: 23
+2018-01-02 22:44:28,315 INFO aestimo calculation time  0.144853 s
+2018-01-02 22:44:28,316 INFO aestimo total running time (inc. loading libraries) 0.507447 s
+2018-01-02 22:44:28,316 INFO aestimo total running time (exc. loading libraries) 0.146676 s
+2018-01-02 22:44:38,004 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2018-01-02 22:45:10,102 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 22:45:10,103 INFO aestimo inputfile is sample_multi_qw_barrierdope_p
+2018-01-02 22:45:10,103 INFO aestimo Aestimo is starting...
+2018-01-02 22:45:10,103 INFO aestimo Total layer number: 22
+2018-01-02 22:45:10,103 INFO aestimo Total number of materials in database: 23
+2018-01-02 22:45:10,249 INFO aestimo calculation time  0.145624 s
+2018-01-02 22:45:10,249 INFO aestimo total running time (inc. loading libraries) 0.527562 s
+2018-01-02 22:45:10,250 INFO aestimo total running time (exc. loading libraries) 0.148169 s
+2018-01-02 22:45:20,432 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
+2018-01-02 22:45:36,222 WARNING aestimo psi_at_inf_cython module not found
+2018-01-02 22:45:36,222 INFO aestimo inputfile is sample_multi_qw_barrierdope_p
+2018-01-02 22:45:36,223 INFO aestimo Aestimo is starting...
+2018-01-02 22:45:36,223 INFO aestimo Total layer number: 22
+2018-01-02 22:45:36,223 INFO aestimo Total number of materials in database: 23
+2018-01-02 22:45:36,369 INFO aestimo calculation time  0.14552 s
+2018-01-02 22:45:36,369 INFO aestimo total running time (inc. loading libraries) 0.477764 s
+2018-01-02 22:45:36,369 INFO aestimo total running time (exc. loading libraries) 0.147686 s
+2018-01-02 22:45:57,675 INFO aestimo Simulation is finished. All files are closed. Please control the related files.
+-----------------------------------------------------------------
